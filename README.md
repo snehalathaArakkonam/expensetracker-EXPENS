@@ -26,6 +26,21 @@
 
 ---
 
+## screenshots
+language changed
+<img width="1898" height="862" alt="languge changed" src="https://github.com/user-attachments/assets/8123802c-7860-4866-ad17-2e6fedf584bc" />
+basic interface with light mode
+<img width="1919" height="869" alt="Screenshot 2026-04-23 165820" src="https://github.com/user-attachments/assets/5c3fda85-f1d6-41bd-a354-313a4b662852" />
+with dark mode
+<img width="1892" height="868" alt="Screenshot 2026-04-23 165708" src="https://github.com/user-attachments/assets/0e8e40e9-fd93-4431-a120-6afb1e86c7ab" />
+analytics of the user
+<img width="1900" height="863" alt="Screenshot 2026-04-23 165726" src="https://github.com/user-attachments/assets/9807863b-cf3a-4c32-8acd-5d52be105614" />
+split expense
+<img width="1892" height="864" alt="Screenshot 2026-04-23 165802" src="https://github.com/user-attachments/assets/9c3c99f2-4f74-4095-b0bd-70484c8f62fa" />
+download transaction report (in pdf/word)
+<img width="1919" height="817" alt="image" src="https://github.com/user-attachments/assets/3936bb5a-7ec3-436b-a498-c7ba17791245" />
+
+
 ##  OVERVIEW
 
 EXPENS is a modern expense tracking web application designed to help users manage income, expenses, budgeting, and financial insights in a simple and efficient way.
